@@ -53,6 +53,7 @@ You will use your data warehousing skills to design and implement a data warehou
 <tr><td>stationid</td></tr>
 <tr><td>city</td></tr>
 </table>
+Data Source: DimStation.csv
 
 ### Fact Table
  1. <b>FactTrips</b>
