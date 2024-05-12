@@ -48,6 +48,8 @@ You will use your data warehousing skills to design and implement a data warehou
 <tr><td>truckid</td></tr>
 <tr><td>trucktype</td></tr>
 </table>
+Data Source: <a href="https://github.com/babat3e/waste_truck_data_report/blob/2d32a1ed5e69c61a820528488f9c43523fdbc81e/DimTruck.csv">DimTruck</a>
+
  3. <b>DimStation</b>
 <table>
 <tr><td>stationid</td></tr>
