@@ -30,9 +30,8 @@ You will use your data warehousing skills to design and implement a data warehou
 
 ## Star Schema for Data Warehouse
 ### Dimension Tables
-1. DimDate
+1. <b>DimDate</b>
 <table>
-<tr><td><b>DimDate</td></tr>
 <tr><td>dateid</td></tr>
 <tr><td>date</td></tr>
 <tr><td>year</td></tr>
@@ -43,6 +42,25 @@ You will use your data warehousing skills to design and implement a data warehou
 <tr><td>day</td></tr>
 <tr><td>weekday</td></tr>
 <tr><td>weekdayname</td></tr>
+</table>
+2. <b>DimTruck</b>
+<table>
+<tr><td>truckid</td></tr>
+<tr><td>trucktype</td></tr>
+</table>
+3. <b>DimStation</b>
+<table>
+<tr><td>stationid</td></tr>
+<tr><td>city</td></tr>
+</table>
+
+### Fact Table
+<table>
+<tr><td>tripid</td></tr>
+<tr><td>dateid</td></tr>
+<tr><td>stationid</td></tr>
+<tr><td>truckid</td></tr>
+<tr><td>wastecollected</td></tr>
 </table>
   
 
