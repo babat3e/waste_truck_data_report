@@ -43,18 +43,19 @@ You will use your data warehousing skills to design and implement a data warehou
 <tr><td>weekday</td></tr>
 <tr><td>weekdayname</td></tr>
 </table>
-2. <b>DimTruck</b>
+ 2. <b>DimTruck</b>
 <table>
 <tr><td>truckid</td></tr>
 <tr><td>trucktype</td></tr>
 </table>
-3. <b>DimStation</b>
+ 3. <b>DimStation</b>
 <table>
 <tr><td>stationid</td></tr>
 <tr><td>city</td></tr>
 </table>
 
 ### Fact Table
+ 1. <b>FactTrips</b>
 <table>
 <tr><td>tripid</td></tr>
 <tr><td>dateid</td></tr>
