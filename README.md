@@ -28,4 +28,21 @@ You will use your data warehousing skills to design and implement a data warehou
 * Staging - Data warehouse – PostgreSQL
 * Business Intelligence Dashboard - IBM Cognos Analytics
 
+## Star Schema for Data Warehouse
+### Dimension Tables
+<table>
+<tr><td>DimDate</td></tr>
+<tr><td>dateid</td></tr>
+<tr><td>date</td></tr>
+<tr><td>year</td></tr>
+<tr><td>quarter</td></tr>
+<tr><td>quartername</td></tr>
+<tr><td>month</td></tr>
+<tr><td>monthname</td></tr>
+<tr><td>day</td></tr>
+<tr><td>weekday</td></tr>
+<tr><td>weekdayname</td></tr>
+</table>
+  
+
 
