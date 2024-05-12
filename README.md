@@ -30,6 +30,7 @@ You will use your data warehousing skills to design and implement a data warehou
 
 ## Star Schema for Data Warehouse
 ### Dimension Tables
+1. DimDate
 <table>
 <tr><td><b>DimDate</td></tr>
 <tr><td>dateid</td></tr>
