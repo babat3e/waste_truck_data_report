@@ -23,4 +23,9 @@ You will use your data warehousing skills to design and implement a data warehou
 * Create MQTs
 * Create a Dashboard
 
+## Tools and Technologies
+* RDBMS: PostgreSql
+* Staging - Data warehouse – PostgreSQL
+* Business Intelligence Dashboard - IBM Cognos Analytics
+
 
