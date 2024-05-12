@@ -17,8 +17,8 @@ You are a data engineer hired by a solid waste management company. The company c
 You will use your data warehousing skills to design and implement a data warehouse for the company.
 
 ## Objectives
-•	Design a Data Warehouse
-•	Load data into Data Warehouse
+* Design a Data Warehouse
+* Load data into Data Warehouse
 •	Write aggregation queries
 •	Create MQTs
 •	Create a Dashboard
