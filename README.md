@@ -1,5 +1,20 @@
 # waste_truck_data_report
 Use data warehouse skills to design and implement a data warehouse that tracks waste collected by major cities in Brazil.
 
-<h2>IBM Data Warehousing and Business Intelligence Analytics</h2>
+## IBM Data Warehousing and Business Intelligence Analytics Capstone Project
+This repository is part of the IBM Data Warehousing and Business Intelligence Analytics project. 
+
+## Scenario
+You are a data engineer hired by a solid waste management company. The company collects and recycles solid waste across major cities in the country of Brazil. The company operates hundreds of trucks of different types to collect and transport solid waste. The company would like to create a data warehouse so that it can create reports like
+<table>
+<tr><td>total waste collected per year per city</td></tr>
+•	total waste collected per month per city
+•	total waste collected per quarter per city
+•	total waste collected per year per trucktype
+•	total waste collected per trucktype per city
+•	total waste collected per trucktype per station per city
+</table>
+
+You will use your data warehousing skills to design and implement a data warehouse for the company.
+
 
