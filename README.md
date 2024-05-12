@@ -19,8 +19,8 @@ You will use your data warehousing skills to design and implement a data warehou
 ## Objectives
 * Design a Data Warehouse
 * Load data into Data Warehouse
-•	Write aggregation queries
-•	Create MQTs
-•	Create a Dashboard
+* Write aggregation queries
+* Create MQTs
+* Create a Dashboard
 
 
