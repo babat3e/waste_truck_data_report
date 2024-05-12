@@ -53,7 +53,7 @@ You will use your data warehousing skills to design and implement a data warehou
 <tr><td>stationid</td></tr>
 <tr><td>city</td></tr>
 </table>
-Data Source: https://github.com/babat3e/waste_truck_data_report/blob/b1c4bed1f1c69bf9f97cb733fac4b18e86c3e9d8/DimStation.csv
+Data Source: <a href="https://github.com/babat3e/waste_truck_data_report/blob/b1c4bed1f1c69bf9f97cb733fac4b18e86c3e9d8/DimStation.csv">DimStation</a>
 
 ### Fact Table
  1. <b>FactTrips</b>
