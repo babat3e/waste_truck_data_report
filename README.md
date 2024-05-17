@@ -44,7 +44,7 @@ You will use your data warehousing skills to design and implement a data warehou
 <tr><td>weekdayname</td></tr>
 </table>
 Data Source: <a href="https://github.com/babat3e/waste_truck_data_report/blob/fe8f3759298b5bcede6bc917ffd607362ea79690/DimDate.csv">DimDate</a>
-<br>
+<br/>
 
  2. <b>DimTruck</b>
 <table>
@@ -52,7 +52,7 @@ Data Source: <a href="https://github.com/babat3e/waste_truck_data_report/blob/fe
 <tr><td>trucktype</td></tr>
 </table>
 Data Source: <a href="https://github.com/babat3e/waste_truck_data_report/blob/2d32a1ed5e69c61a820528488f9c43523fdbc81e/DimTruck.csv">DimTruck</a>
-<br>
+<br/>
 
  3. <b>DimStation</b>
 <table>
@@ -60,7 +60,7 @@ Data Source: <a href="https://github.com/babat3e/waste_truck_data_report/blob/2d
 <tr><td>city</td></tr>
 </table>
 Data Source: <a href="https://github.com/babat3e/waste_truck_data_report/blob/b1c4bed1f1c69bf9f97cb733fac4b18e86c3e9d8/DimStation.csv">DimStation</a>
-<br>
+<br/>
 
 ### Fact Table
  1. <b>FactTrips</b>
