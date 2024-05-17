@@ -43,6 +43,8 @@ You will use your data warehousing skills to design and implement a data warehou
 <tr><td>weekday</td></tr>
 <tr><td>weekdayname</td></tr>
 </table>
+Data Source: <a href="https://github.com/babat3e/waste_truck_data_report/blob/fe8f3759298b5bcede6bc917ffd607362ea79690/DimDate.csv">DimDate</a>
+
  2. <b>DimTruck</b>
 <table>
 <tr><td>truckid</td></tr>
