@@ -68,6 +68,7 @@ Data Source: <a href="https://github.com/babat3e/waste_truck_data_report/blob/b1
 <tr><td>truckid</td></tr>
 <tr><td>wastecollected</td></tr>
 </table>
+Data Source: <a href="https://github.com/babat3e/waste_truck_data_report/blob/18972ade5837da257cfea4957dccf3ac6088d17d/FactTrips.csv">FactTrips</a>
   
 
 
